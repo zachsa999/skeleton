@@ -1,0 +1,1 @@
+{"code":"(()=>{\n\"use strict\";module.exports=require(\"./plugin\");\n})()\n","warnings":[],"map":{"version":3,"mappings":";aACA,OAAO,QAAU,QAAQ,UAAU","names":[],"sources":["/root/projects/zachw-i/packages/plugin/node_modules/.pnpm/tailwindcss@3.3.2/node_modules/tailwindcss/lib/index.js"],"sourcesContent":["\"use strict\";\nmodule.exports = require(\"./plugin\");\n"]}}
